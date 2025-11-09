@@ -11,6 +11,6 @@ public class Test {
 
         //可以跟妈妈聊天
         g1.m =new Mom();
-        g1.wechat();  
+        g1.wechat();
     }
 }
